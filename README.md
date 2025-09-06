@@ -105,25 +105,3 @@ npm run build
 ```
 
 ---
-
-## 🔧 Configuration
-- Ensure the **client’s API request URLs** point to the correct server address (especially after deployment).  
-- The **server must be running** before the client can establish a connection.  
-
----
-
-## 🤝 Contributing
-Contributions are always welcome! 🎉  
-- Fork the repository  
-- Create a new feature branch  
-- Commit your changes  
-- Push the branch  
-- Open a Pull Request  
-
-Please create an issue first to discuss any major changes.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for more details.
